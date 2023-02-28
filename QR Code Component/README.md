@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [Bootstrap](https://getbootstrap.com/) - JS library
+- [Bootstrap](https://getbootstrap.com/) - CSS Toolkit
 
 ### What I learned
 
@@ -39,5 +39,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Fatih Semirgin](https://www.your-site.com)
+- Website - [Fatih Semirgin](https://www.linkedin.com/in/fatih-semirgin/)
 - Frontend Mentor - [@fatihsemirgin](https://www.frontendmentor.io/profile/fatihsemirgin)
